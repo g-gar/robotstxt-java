@@ -26,6 +26,12 @@ For webmasters, we included a runnable class `RobotsParserApp` which is a small
 application that allows testing a single URL and several user-agents against a
 robots.txt.
 
+## About the fork
+
+This fork aims to open some boundaries of the original repository 
+([google/robotstxt-java](https://github.com/google/robotstxt-java)) in order to
+ be used as a library/dependency. 
+
 ## Development
 
 ### Prerequisites
