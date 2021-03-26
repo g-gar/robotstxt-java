@@ -22,7 +22,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Class implementing matching logic based on directives priorities those calculation is delegated
+ * Class implementing matching implementations based on directives priorities those calculation is delegated
  * to a {@link MatchingStrategy} class.
  */
 public class RobotsMatcher implements Matcher {

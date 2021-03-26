@@ -16,7 +16,7 @@ package com.google.search.robotstxt;
 
 /**
  * Abstract parser. All parser implementations must extend it. This class extensions are expected to
- * provide tokenizer logic while parsing logic is delegated to a {@link ParseHandler} class.
+ * provide tokenizer implementations while parsing implementations is delegated to a {@link ParseHandler} class.
  */
 public abstract class Parser {
   enum DirectiveType {

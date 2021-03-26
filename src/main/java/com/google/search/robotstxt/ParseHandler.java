@@ -15,7 +15,7 @@
 package com.google.search.robotstxt;
 
 /**
- * The interface provides parsing logic for {@link Parser} class. Its implementation is expected to
+ * The interface provides parsing implementations for {@link Parser} class. Its implementation is expected to
  * accumulate parsed robots.txt lines and be able to compute {@link RobotsMatcher} instance as soon
  * as all robots.txt lines were inputted.
  */
